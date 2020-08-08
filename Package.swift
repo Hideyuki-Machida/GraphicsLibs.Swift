@@ -12,7 +12,6 @@ let package = Package(
     products: [
         .library(
             name: "GraphicsLibs.Swift",
-            type: .dynamic,
             targets: ["GraphicsLibs.Swift"]),
     ],
     dependencies: [

@@ -1,6 +1,6 @@
 //
 //  CMSampleBuffer+Extension.swift
-//  
+//
 //
 //  Created by hideyuki machida on 2020/08/02.
 //
